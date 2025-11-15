@@ -1,4 +1,1 @@
-5.0 MVPChina UP
-BSKSL
-HSKS
-GSJSV
+MVPChina V5.0.0
