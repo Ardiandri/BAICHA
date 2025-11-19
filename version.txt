@@ -1,5 +1,1 @@
-V7.0 MVP China
-hsks
-gsks
-gsksl
-hsks
+MVP China 7.1.0
