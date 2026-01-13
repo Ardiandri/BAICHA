@@ -1,6 +1,1 @@
-3.0 MVPChina
-bsm
-bdjd
-hdjd
-hdjs
-vsjs
+MVPChina 4.0
