@@ -1,6 +1,1 @@
-4.0A MVPChina
-gsjs
-hsjs
-hsjs
-hsjs
-hsjs
+ MVPChina 5.0
