@@ -1,6 +1,1 @@
- 5.0 MVPChina
-gal
-sbdm
-gsjs
-bsjs
-gss
+MVPChina 6.0
