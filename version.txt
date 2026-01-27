@@ -1,5 +1,1 @@
-7.0 MVPChina
-gdjs
-hdj
-gdjsk
-hsjs
+MVPChina 8.0
